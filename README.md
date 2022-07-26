@@ -2,7 +2,7 @@
 
 
 ## Deployed Link
-
+https://daynelalmond.github.io/PasswordGenerator/
 
 ## Screenshot
 ![Capture](./assets/Capture.JPG)
